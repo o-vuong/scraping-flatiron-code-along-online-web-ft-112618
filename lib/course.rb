@@ -1,3 +1,3 @@
-class Course 
-  attr_accessor :title 
-
+class Course
+  attr_accessor :title
+end
